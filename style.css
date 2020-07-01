@@ -39,7 +39,9 @@ body{
     background-image: url("images/biography-bg.png");
     margin-top: 5%;
 }
-
+.biography-content img{
+    width: 100%;
+}
 
 .web-list{
     background-image: url("images/latest-work-bg.png");
